@@ -10,4 +10,6 @@ This project is a Streamlit dashboard designed to analyze customer feedback on s
 - Python 3.7+
 - Streamlit for building the dashboard
 - Pandas and Plotly for data processing and visualization
-- NLTK or TextBlob for sentiment analysis (if not already installed)
+- NLTK or TextBlob for sentiment analysis (if not already installed)[![image](https://github.com/user-attachments/assets/333f954b-767d-4c40-858e-7b6ef5a9622d)
+ ![image](https://github.com/user-attachments/assets/67ccaf2a-04d0-4079-957a-59bcc0d457c0) ![image](https://github.com/user-attachments/assets/15da98c5-a1a0-440e-864e-bfe0aee597fd)
+
